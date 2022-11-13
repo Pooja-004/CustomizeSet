@@ -47,6 +47,7 @@ public class CustomizeSet {
 		hs.add(std5);
 		hs.add(std6);
 		System.out.println(hs);
+		System.out.println(hs);
 		
 	}
 
